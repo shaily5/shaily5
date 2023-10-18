@@ -1,16 +1,28 @@
-### Hi there 👋
+## 📝 About Me
+ 
+ - 👋 Hi, I’m Shaily Patel 
+ - 👀 I’m interested in Data Analysis, Python, Cloud and UI/UX
+ - 👯 I’m looking to collaborate with other content creators
+ -  
+## 📫 How to reach me! 
+<p align="left">
+   <a href="www.linkedin.com/in/shaily5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
 
-<!--
-**shaily5/shaily5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+ 
+ <div display="flex">
+  <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=shaily5&show_icons=true&theme=react" alt="shaily5" width="48%"/>
+  <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=shaily5&theme=react" alt="shaily5" width="49%"/>
+</div>
+&nbsp;
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaily5&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="language" >
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shaily5&theme=react&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaily5&label=Profile%20views&color=0e75b6&style=flat" alt="shaily5" /> </p>
+
