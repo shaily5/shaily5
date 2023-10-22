@@ -6,7 +6,7 @@
    
 ## 📫 How to reach me! 
 <p align="left">
-   <a href="www.linkedin.com/in/shaily5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+   <a href="www.linkedin.com/in/shaily5" target="blank"><img align="center"  alt="linkedin" height="30" width="40" /></a>
 </p>
 
 ## 📊 GitHub Stats
