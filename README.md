@@ -1,8 +1,9 @@
 ## 📝 About Me
  
  - 👋 Hi, I’m Shaily Patel 
- - 👀 I’m interested in Data Analysis, Python, Cloud and UI/UX
+ - 👀 I’m interested in React, Python, Cloud and UI/UX
  - 👯 I’m looking to collaborate with other content creators
+ - 2024 Goal- Learn more about programming
    
 ## 📫 How to reach me! 
 <p align="left">
