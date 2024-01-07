@@ -1,9 +1,10 @@
 ## 📝 About Me
  
- - 👋 Hi, I’m Shaily Patel 
- - 👀 I’m interested in React, Python, Cloud and UI/UX
- - 👯 I’m looking to collaborate with other content creators
- - 2024 Goal- Learn more about programming
+ - 👋 Hi There! I am Shaily Patel.
+ - 👀 I’m interested in Java, Python, ReactJS, NodeJS, and MongoDB.
+ - 👩‍🎓 I also have a great understanding of Software Development Life Cycle (SDLC), object-oriented concepts, and proficiency in data structures and algorithms.
+ - 👯 I’m looking to collaborate with other content creators.
+ - 👩‍💻 2024 Goal- Learn more about programming and new technologies.
    
 ## 📫 How to reach me! 
 <p align="left">
