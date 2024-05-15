@@ -1,7 +1,7 @@
 ## 📝 About Me
  
  - 👋 Hi There! I am Shaily Patel.
- - 👀 I’m interested in Python, SQL, ReactJS, and MongoDB.
+ - 👀 I’m interested in Python, Django, SQL, ReactJS, and MongoDB.
  - 👩‍🎓 I also have a great understanding of Software Development Life Cycle (SDLC), and proficiency in OOP concepts.
  - 👯 I’m looking to collaborate with other developers.
  - 👩‍💻 2024 Goal- Learn more about programming and new technologies.
